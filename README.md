@@ -1,8 +1,4 @@
-Sure, I can certainly help you draft a README file with clear instructions. Please see the example below:
-
----
-
-# Cardano Pool Social Info Repository
+# Cardano Pool's Social Info Repository
 
 This repository is meant to serve as a central location for Cardano stake pool operators to add and update their social media information. The data is stored in a JSON file named `fullcontact.json`.
 
