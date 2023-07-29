@@ -37,12 +37,12 @@ For example, if your pool's Twitter handle is `@yourpool`, your entry should loo
 
 ```json
 {
-    "name": "Your Pool Name",
-    "ticker": "YOURTICKER",
-    "homepage": "https://yourpoolhomepage.com",
-    "twitter": "https://twitter.com/yourpool",
-    "discord": "",
-    "telegram": ""
+    "name": "Enigma",
+    "ticker": "one",
+    "homepage": "https://red-sky.one/",
+    "twitter": "https://twitter.com/EnigmA_SPO",
+    "discord": "https://discord.gg/trhq94BMcE",
+    "telegram": "https://t.me/EnigmApool"
 }
 ```
 
