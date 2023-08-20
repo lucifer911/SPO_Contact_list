@@ -5658,10 +5658,10 @@
   {
     "name": "Latino_Staking_Pool",
     "ticker": "LATIN",
-    "homepage": "https://cardanolatino.com/cardanoenglish/Latino-Staking-Pool-Eng/",
-    "twitter": "",
-    "discord": "",
-    "telegram": ""
+    "homepage": "https://cardanolatino.com/",
+    "twitter": "https://twitter.com/CardanoLatino, https://twitter.com/LATINSoporte, https://twitter.com/LATINoPool",
+    "discord": "under maintenance",
+    "telegram": "https://t.me/CardanoLatino"
   },
   {
     "name": "Minswap",
