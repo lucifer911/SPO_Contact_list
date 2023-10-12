@@ -1,5 +1,13 @@
 [
   {
+      "name": "DCOne Crypto Pool",
+      "ticker": "DCONE",
+      "homepage": "https://dconecrypto.finance/rewards-pool-dashboard.html",
+      "twitter": "https://twitter.com/DCOneCrypto",
+      "discord": "https://discord.com/invite/zJsSwBQRjz",
+      "telegram": "https://t.me/dconecrypto"
+  },
+  {
       "name": "JayField Pool",
       "ticker": "JFLD",
       "homepage": "https://jayfieldnet.io",
