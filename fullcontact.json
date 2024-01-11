@@ -18374,5 +18374,13 @@
       "twitter": "",
       "discord": "",
       "telegram": ""
+  },
+  {
+    "name": "Sagan Stake Pool",
+    "ticker": "SAGAN",
+    "homepage": "https://saganpool.com",
+    "twitter": "https://x.com/SaganPool",
+    "discord": "https://discord.gg/cvFgW7knuv",
+    "telegram": ""
   }
 ]
