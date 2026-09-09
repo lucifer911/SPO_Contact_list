@@ -18382,5 +18382,13 @@
     "twitter": "https://x.com/SaganPool",
     "discord": "https://discord.gg/cvFgW7knuv",
     "telegram": ""
+  },
+   {
+    "name": "Maracuja Pool",
+    "ticker": "MARAC",
+    "homepage": "https://maracuja-nodes.com/cardano-stake-pool",
+    "twitter": "",
+    "discord": "",
+    "telegram": ""
   }
 ]
